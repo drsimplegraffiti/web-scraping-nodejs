@@ -27,3 +27,5 @@ const mongoose = require('mongoose');
 
 If you have any feedback, please reach out to us at abayomiogunnusi@gmail.com
 
+## Blog link
+[Click here](https://dev.to/drsimplegraffiti/i-scraped-dev-to-using-axios-and-cheerio-26ko)
