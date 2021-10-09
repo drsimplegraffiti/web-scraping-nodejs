@@ -9,8 +9,21 @@
 
 > `npm run dev`
 
-## Packages
-> Cheerio, Express, Axios, Dotenv
+
+> **Tools Used**
+>Node js,
+>ExpressJs framework
+>Axios
+>Cheeerio
 
 
+## Usage/importing
+
+```importing 3rd party packages
+const mongoose = require('mongoose');
+```
+
+## Feedback
+
+If you have any feedback, please reach out to us at abayomiogunnusi@gmail.com
 
