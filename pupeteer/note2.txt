@@ -1,0 +1,26 @@
+const rp = require('request-promise');
+const cheerio = require('cheerio');
+const express = require('express');
+const Table = require('cli-table');
+const pretty = require('pretty');
+require('dotenv').config();
+const port = process.env.PORT || 4000;
+
+const app = express();
+
+const markup = `
+
+<ul class='fruits'>
+<li class = 'fruits_mango'>Mango</li>
+<li class = 'fruits_mango'>apple</li>
+</ul>
+`
+
+
+const $ = cheerio.load(markup);
+console.log(pretty($.html()));
+
+//Listen to server
+app.listen(port, () => {
+    console.log(`Server Established and  running on Port ⚡${port}`)
+})

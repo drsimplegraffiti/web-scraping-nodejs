@@ -5,23 +5,11 @@ Author: Pramit Marattha,
  Blog read time :  for Oct 8
             9 min read
            
-Author: Benjioe, 
- Blog title is : Is Microservices a good choice ? ,
- Blog link: https://dev.to/benjioe/is-microservices-a-good-choice-ge7, 
- Blog read time : Oct 9
-            1 min read
-           
 Author: Gyan, 
- Blog title is : 15 Must-Have Browser Extensions for Web Developers ,
- Blog link: https://dev.to/gw78ah/15-must-have-browser-extensions-for-web-developers-2en8, 
+ Blog title is : All CSS Properties You Need to Know to Build a Website ,
+ Blog link: https://dev.to/gw78ah/all-css-properties-you-need-to-know-to-build-a-website-3m06, 
  Blog read time : Oct 9
-            2 min read
-           
-Author: Gyan, 
- Blog title is : 10 Magical Python Tips For Every Developer ,
- Blog link: https://dev.to/gw78ah/10-magical-python-tips-for-every-developer-1foc, 
- Blog read time : Oct 9
-            1 min read
+            3 min read
            
 Author: Suhail Kakar, 
  Blog title is : An Ultimate Guide to Docker - From What is Docker to Dockerizing a Node.js Application ,
@@ -30,10 +18,16 @@ Author: Suhail Kakar,
             6 min read
            
 Author: Gyan, 
- Blog title is : All CSS Properties You Need to Know to Build a Website ,
- Blog link: https://dev.to/gw78ah/all-css-properties-you-need-to-know-to-build-a-website-3m06, 
+ Blog title is : Tips to become a great programmer ,
+ Blog link: https://dev.to/gw78ah/tips-to-become-a-great-programmer-3im1, 
  Blog read time : Oct 9
-            3 min read
+            1 min read
+           
+Author: Gyan, 
+ Blog title is : 10 Magical Python Tips For Every Developer ,
+ Blog link: https://dev.to/gw78ah/10-magical-python-tips-for-every-developer-1foc, 
+ Blog read time : Oct 9
+            1 min read
            
 Author: Gyan, 
  Blog title is : 7 Amazing Tips While Redesigning Your Website ,
@@ -71,11 +65,11 @@ Author: Pics Retouch,
  Blog read time : Oct 9
             1 min read
            
-Author: Gyan, 
- Blog title is : 10 Awesome Github Repos Every Web Developer Should Know ,
- Blog link: https://dev.to/gw78ah/10-awesome-github-repos-every-web-developer-should-know-2685, 
+Author: dbelokon, 
+ Blog title is : Experience Working with Remote Repos ,
+ Blog link: https://dev.to/belokond/experience-working-with-remote-repos-7ie, 
  Blog read time : Oct 9
-            1 min read
+            3 min read
            
 Author: Aatmaj, 
  Blog title is : Learning Python- Intermediate course: Day 40, Summary of the week and more about OOP ,
@@ -83,11 +77,11 @@ Author: Aatmaj,
  Blog read time : Oct 9
             3 min read
            
-Author: dbelokon, 
- Blog title is : Experience Working with Remote Repos ,
- Blog link: https://dev.to/belokond/experience-working-with-remote-repos-7ie, 
+Author: Benjioe, 
+ Blog title is : Is Microservices a good choice ? ,
+ Blog link: https://dev.to/benjioe/is-microservices-a-good-choice-ge7, 
  Blog read time : Oct 9
-            3 min read
+            1 min read
            
 Author: Elias Júnior, 
  Blog title is : Avoid high-order components hell in React ,
@@ -98,6 +92,12 @@ Author: Elias Júnior,
 Author: Yogesh Chavan, 
  Blog title is : How to Easily Add Google Map to Your Webpage ,
  Blog link: https://dev.to/myogeshchavan97/how-to-easily-add-google-map-to-your-webpage-2jce, 
+ Blog read time : Oct 9
+            2 min read
+           
+Author: Gyan, 
+ Blog title is : 18 amazing 🤩 GitHub repositories that will help you 🪄 make a Beautiful Project ,
+ Blog link: https://dev.to/gw78ah/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-52m5, 
  Blog read time : Oct 9
             2 min read
            
@@ -119,17 +119,29 @@ Author: Abhi-Develops,
  Blog read time : Oct 8
             7 min read
            
+Author: AnupJoseph, 
+ Blog title is : Make a bar chart with D3 and Svelte ,
+ Blog link: https://dev.to/learners/make-a-bar-chart-with-d3-and-svelte-31nj, 
+ Blog read time :  for Oct 9
+            5 min read
+           
 Author: Rammina, 
  Blog title is : 100 Days of Code and Scrum: A New Challenge ,
  Blog link: https://dev.to/rammina/100-days-of-code-and-scrum-a-new-challenge-24lp, 
  Blog read time : Oct 9
             2 min read
            
-Author: Gyan, 
- Blog title is : 18 amazing 🤩 GitHub repositories that will help you 🪄 make a Beautiful Project ,
- Blog link: https://dev.to/gw78ah/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-52m5, 
+Author: Deepak Gupta, 
+ Blog title is : What is Google Cloud Platform ? 🤷 ,
+ Blog link: https://dev.to/deepakguptacoder/what-is-google-cloud-platform-1eco, 
  Blog read time : Oct 9
             2 min read
+           
+Author: Gyan, 
+ Blog title is : 10 Awesome Github Repos Every Web Developer Should Know ,
+ Blog link: https://dev.to/gw78ah/10-awesome-github-repos-every-web-developer-should-know-2685, 
+ Blog read time : Oct 9
+            1 min read
            
 Author: Zach Snoek, 
  Blog title is : How to build an HTTP-triggered function with Azure Functions ,
@@ -179,17 +191,17 @@ Author: Marcelo Sousa,
  Blog read time :  for Oct 8
             5 min read
            
-Author: Roberto Ruiz, 
- Blog title is : Untangling Your Logic Using State Machines ,
- Blog link: https://dev.to/robruizr/untangling-your-logic-using-state-machines-2epj, 
- Blog read time : Oct 8
-            5 min read
-           
 Author: Gabriel Bittencourt, 
  Blog title is : Loading animation with React.js + styled-components ,
  Blog link: https://dev.to/gabrlcj/loading-animation-with-react-js-styled-components-3m0n, 
  Blog read time : Oct 8
             3 min read
+           
+Author: Roberto Ruiz, 
+ Blog title is : Untangling Your Logic Using State Machines ,
+ Blog link: https://dev.to/robruizr/untangling-your-logic-using-state-machines-2epj, 
+ Blog read time : Oct 8
+            5 min read
            
 Author: Salma, 
  Blog title is : Make Custom Pagination with laravel ,
@@ -233,15 +245,21 @@ Author: Sebastian Rindom,
  Blog read time :  for Oct 8
             7 min read
            
+Author: Matias D, 
+ Blog title is : Show me your portfolio ,
+ Blog link: https://dev.to/matiasdandrea/show-me-your-portfolio-1l9h, 
+ Blog read time : Oct 8
+            1 min read
+           
 Author: Jambang J, 
  Blog title is : Deploying an discordjs bot to Qovery ,
  Blog link: https://dev.to/jambang067/deploying-an-discordjs-bot-to-qovery-51e, 
  Blog read time : Oct 8
             7 min read
            
-Author: Matias D, 
- Blog title is : Show me your portfolio ,
- Blog link: https://dev.to/matiasdandrea/show-me-your-portfolio-1l9h, 
+Author: Prosper Yong, 
+ Blog title is : Get Paid Writing ,
+ Blog link: https://dev.to/yongdev/get-paid-writing-2i2j, 
  Blog read time : Oct 8
             1 min read
            
@@ -250,12 +268,6 @@ Author: Gaurav Gupta,
  Blog link: https://dev.to/gauravgupta/smart-notes-a-build-in-public-product-buildlog-1-kj6, 
  Blog read time : Oct 8
             4 min read
-           
-Author: Prosper Yong, 
- Blog title is : Get Paid Writing ,
- Blog link: https://dev.to/yongdev/get-paid-writing-2i2j, 
- Blog read time : Oct 8
-            1 min read
            
 Author: Rasool Khan, 
  Blog title is : Building CRUD API with NestJs - Write First API. ,
@@ -286,16 +298,4 @@ Author: john methew,
  Blog link: https://dev.to/johnmethew18/serverless-cloud-application-development-with-aws-lambda-3o7l, 
  Blog read time : Oct 8
             1 min read
-           
-Author: Antonio-Bennett, 
- Blog title is : Hacktoberfest Week 1 ,
- Blog link: https://dev.to/antoniobennett/hacktoberfest-week-1-4ebc, 
- Blog read time : Oct 8
-            2 min read
-           
-Author: Andre Willomitzer, 
- Blog title is : OpenAQ - My first open source PR :) ,
- Blog link: https://dev.to/andrewillomitzer/openaq-my-first-open-source-pr-3k32, 
- Blog read time : Oct 8
-            2 min read
            
