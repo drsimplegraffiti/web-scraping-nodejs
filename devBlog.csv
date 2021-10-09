@@ -1,301 +1,501 @@
 author, BlogTitle, bloglink, readtime 
-Author: Pramit Marattha, 
- Blog title is : Node.js from Beginners to Advance ,
- Blog link: https://dev.to/aviyel/node-js-from-beginners-to-advance-31id, 
- Blog read time :  for Oct 8
-            9 min read
+Author: kuldeep_singh, 
+ Blog title is : How to Get list of All Environment Variables' key Used in a Golang Module or Project ,
+ Blog link: https://dev.to/mavensingh/how-to-get-list-of-all-environment-variables-used-in-a-module-or-project-19l2, 
+ Blog read time : Oct 9
+            2 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Siddharth Chaudhary (he/him), 
+ Blog title is : Announcing a new series: Building good looking UI components with Tailwind CSS ,
+ Blog link: https://dev.to/sidcraftscode/announcing-a-new-series-building-good-looking-ui-components-with-tailwind-css-4ko3, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Siddharth Chaudhary (he/him), 
+ Blog title is : Build a good looking <input> with Tailwind CSS ,
+ Blog link: https://dev.to/sidcraftscode/build-a-good-looking-input-with-tailwind-css-384, 
+ Blog read time : Oct 9
+            2 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Gyan, 
- Blog title is : All CSS Properties You Need to Know to Build a Website ,
- Blog link: https://dev.to/gw78ah/all-css-properties-you-need-to-know-to-build-a-website-3m06, 
+ Blog title is : 20 Best CSS3 Library For Developers. ,
+ Blog link: https://dev.to/gw78ah/20-best-css3-library-for-developers-lf, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : Top 10 Vscode Theme ,
+ Blog link: https://dev.to/gw78ah/top-10-vscode-theme-40ae, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : 7 Best Tools For Developers - They Can't Live Without It ,
+ Blog link: https://dev.to/gw78ah/7-best-tools-for-developers-they-can-t-live-without-it-1cb4, 
  Blog read time : Oct 9
             3 min read
            
-Author: Suhail Kakar, 
- Blog title is : An Ultimate Guide to Docker - From What is Docker to Dockerizing a Node.js Application ,
- Blog link: https://dev.to/suhailkakar/s-24cf, 
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : AI project For Beginners ,
+ Blog link: https://dev.to/gw78ah/ai-project-for-beginners-2eg8, 
  Blog read time : Oct 9
-            6 min read
+            2 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Adom Shafi, 
+ Blog title is : Creative Food Delivery Landing Page ,
+ Blog link: https://dev.to/adom_shafi_17/creative-food-delivery-landing-page-4e8l, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : Top 20 JavaScript tips and tricks to increase your Speed and Efficiency ,
+ Blog link: https://dev.to/gw78ah/top-20-javascript-tips-and-tricks-to-increase-your-speed-and-efficiency-2ada, 
+ Blog read time : Oct 9
+            4 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Michael Walmsley, 
+ Blog title is : Serverless Integration, Zero Code ,
+ Blog link: https://dev.to/walmsles/serverless-integration-zero-code-3i39, 
+ Blog read time : Oct 9
+            8 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : 40+ JavaScript Projects for Beginners – Easy Ideas to Get Started Coding JS ,
+ Blog link: https://dev.to/gw78ah/40-javascript-projects-for-beginners-easy-ideas-to-get-started-coding-js-4fcp, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Gyan, 
  Blog title is : Tips to become a great programmer ,
  Blog link: https://dev.to/gw78ah/tips-to-become-a-great-programmer-3im1, 
  Blog read time : Oct 9
             1 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : All CSS Properties You Need to Know to Build a Website ,
+ Blog link: https://dev.to/gw78ah/all-css-properties-you-need-to-know-to-build-a-website-3m06, 
+ Blog read time : Oct 9
+            3 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Suhail Kakar, 
+ Blog title is : An Ultimate Guide to Docker - From What is Docker to Dockerizing a Node.js Application ,
+ Blog link: https://dev.to/suhailkakar/s-24cf, 
+ Blog read time : Oct 9
+            6 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Gyan, 
  Blog title is : 10 Magical Python Tips For Every Developer ,
  Blog link: https://dev.to/gw78ah/10-magical-python-tips-for-every-developer-1foc, 
  Blog read time : Oct 9
             1 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Gyan, 
  Blog title is : 7 Amazing Tips While Redesigning Your Website ,
  Blog link: https://dev.to/gw78ah/7-amazing-tips-while-redesigning-your-website-255g, 
  Blog read time : Oct 9
             2 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Gyan, 
  Blog title is : Ethical Hacking Roadmap - A Beginners Tutorial ,
  Blog link: https://dev.to/gw78ah/ethical-hacking-roadmap-a-beginners-tutorial-33m2, 
  Blog read time : Oct 9
             1 min read
            
-Author: lgf196, 
- Blog title is : Must-see + collection, build a vite-react-cil enterprise scaffolding from scratch ,
- Blog link: https://dev.to/lgf196/must-see-collection-build-a-vite-react-cil-enterprise-scaffolding-from-scratch-2bpd, 
- Blog read time : Oct 9
-            15 min read
-           
-Author: Chris Bongers, 
- Blog title is : Using forms in Next.js ,
- Blog link: https://dev.to/dailydevtips1/using-forms-in-next-js-4obl, 
- Blog read time : Oct 9
-            3 min read
-           
-Author: silvaberli, 
- Blog title is : Kucoin Clone Script-how to provide a cryptocurrency exchange like kucoin ,
- Blog link: https://dev.to/silvaberli/kucoin-clone-script-how-to-provide-a-cryptocurrency-exchange-like-kucoin-46m, 
- Blog read time : Oct 9
-            7 min read
-           
-Author: Pics Retouch, 
- Blog title is : Product Photo Retouching ,
- Blog link: https://dev.to/picsretouch/product-photo-retouching-39jo, 
- Blog read time : Oct 9
-            1 min read
-           
-Author: dbelokon, 
- Blog title is : Experience Working with Remote Repos ,
- Blog link: https://dev.to/belokond/experience-working-with-remote-repos-7ie, 
- Blog read time : Oct 9
-            3 min read
-           
-Author: Aatmaj, 
- Blog title is : Learning Python- Intermediate course: Day 40, Summary of the week and more about OOP ,
- Blog link: https://dev.to/aatmaj/learning-python-intermediate-course-day-40-summary-of-the-week-and-more-about-oop-5gap, 
- Blog read time : Oct 9
-            3 min read
-           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Benjioe, 
  Blog title is : Is Microservices a good choice ? ,
  Blog link: https://dev.to/benjioe/is-microservices-a-good-choice-ge7, 
  Blog read time : Oct 9
             1 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: lgf196, 
+ Blog title is : Must-see + collection, build a vite-react-cil enterprise scaffolding from scratch ,
+ Blog link: https://dev.to/lgf196/must-see-collection-build-a-vite-react-cil-enterprise-scaffolding-from-scratch-2bpd, 
+ Blog read time : Oct 9
+            15 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Chris Bongers, 
+ Blog title is : Using forms in Next.js ,
+ Blog link: https://dev.to/dailydevtips1/using-forms-in-next-js-4obl, 
+ Blog read time : Oct 9
+            3 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: silvaberli, 
+ Blog title is : Kucoin Clone Script-how to provide a cryptocurrency exchange like kucoin ,
+ Blog link: https://dev.to/silvaberli/kucoin-clone-script-how-to-provide-a-cryptocurrency-exchange-like-kucoin-46m, 
+ Blog read time : Oct 9
+            7 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Pics Retouch, 
+ Blog title is : Product Photo Retouching ,
+ Blog link: https://dev.to/picsretouch/product-photo-retouching-39jo, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Aatmaj, 
+ Blog title is : Learning Python- Intermediate course: Day 40, Summary of the week and more about OOP ,
+ Blog link: https://dev.to/aatmaj/learning-python-intermediate-course-day-40-summary-of-the-week-and-more-about-oop-5gap, 
+ Blog read time : Oct 9
+            3 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: dbelokon, 
+ Blog title is : Experience Working with Remote Repos ,
+ Blog link: https://dev.to/belokond/experience-working-with-remote-repos-7ie, 
+ Blog read time : Oct 9
+            3 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Rupak Dey, 
+ Blog title is : 3 Sites that make CSS easy! ,
+ Blog link: https://dev.to/deyrupak/3-sites-that-make-css-easy-k01, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Elias Júnior, 
  Blog title is : Avoid high-order components hell in React ,
  Blog link: https://dev.to/eliasjnior/avoid-high-order-components-hell-in-react-25ln, 
  Blog read time : Oct 9
             3 min read
            
-Author: Yogesh Chavan, 
- Blog title is : How to Easily Add Google Map to Your Webpage ,
- Blog link: https://dev.to/myogeshchavan97/how-to-easily-add-google-map-to-your-webpage-2jce, 
- Blog read time : Oct 9
-            2 min read
-           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Gyan, 
  Blog title is : 18 amazing 🤩 GitHub repositories that will help you 🪄 make a Beautiful Project ,
  Blog link: https://dev.to/gw78ah/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-52m5, 
  Blog read time : Oct 9
             2 min read
            
-Author: jsong89, 
- Blog title is : About lab 4... ,
- Blog link: https://dev.to/juuuuuuun/about-lab-4-1521, 
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Lucian Tartea, 
+ Blog title is : Build a product and launch in 30 days with just HTML and CSS halfway ,
+ Blog link: https://dev.to/luciantartea/build-a-product-and-launch-in-30-days-with-just-html-and-css-halfway-4cm0, 
  Blog read time : Oct 9
-            3 min read
+            4 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Yogesh Chavan, 
+ Blog title is : How to Easily Add Google Map to Your Webpage ,
+ Blog link: https://dev.to/myogeshchavan97/how-to-easily-add-google-map-to-your-webpage-2jce, 
+ Blog read time : Oct 9
+            2 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Michael Patterson, 
  Blog title is : My Full Stack Developer Toolkit ,
  Blog link: https://dev.to/mick_patterson_/my-full-stack-developer-toolkit-20pm, 
  Blog read time : Oct 9
             4 min read
            
-Author: Abhi-Develops, 
- Blog title is : Random Password Generator ,
- Blog link: https://dev.to/abhidevelops/random-password-generator-41pf, 
- Blog read time : Oct 8
-            7 min read
+ 
+ 
+ ===   ===  ===  
+ 
+Author: jsong89, 
+ Blog title is : About lab 4... ,
+ Blog link: https://dev.to/juuuuuuun/about-lab-4-1521, 
+ Blog read time : Oct 9
+            3 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: AnupJoseph, 
  Blog title is : Make a bar chart with D3 and Svelte ,
  Blog link: https://dev.to/learners/make-a-bar-chart-with-d3-and-svelte-31nj, 
  Blog read time :  for Oct 9
             5 min read
            
-Author: Rammina, 
- Blog title is : 100 Days of Code and Scrum: A New Challenge ,
- Blog link: https://dev.to/rammina/100-days-of-code-and-scrum-a-new-challenge-24lp, 
- Blog read time : Oct 9
-            2 min read
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Abhi-Develops, 
+ Blog title is : Random Password Generator ,
+ Blog link: https://dev.to/abhidevelops/random-password-generator-41pf, 
+ Blog read time : Oct 8
+            7 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: David Asaolu, 
+ Blog title is : Stop using classNames to style your React apps, instead use ,
+ Blog link: https://dev.to/arshadayvid/stop-using-classnames-to-style-your-react-apps-instead-use-53jn, 
+ Blog read time : Oct 9
+            3 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Deepak Gupta, 
  Blog title is : What is Google Cloud Platform ? 🤷 ,
  Blog link: https://dev.to/deepakguptacoder/what-is-google-cloud-platform-1eco, 
  Blog read time : Oct 9
             2 min read
            
-Author: Gyan, 
- Blog title is : 10 Awesome Github Repos Every Web Developer Should Know ,
- Blog link: https://dev.to/gw78ah/10-awesome-github-repos-every-web-developer-should-know-2685, 
- Blog read time : Oct 9
-            1 min read
-           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Zach Snoek, 
  Blog title is : How to build an HTTP-triggered function with Azure Functions ,
  Blog link: https://dev.to/zachsnoek/how-to-build-an-http-triggered-function-with-azure-functions-23eg, 
  Blog read time : Oct 9
             10 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Rammina, 
+ Blog title is : 100 Days of Code and Scrum: A New Challenge ,
+ Blog link: https://dev.to/rammina/100-days-of-code-and-scrum-a-new-challenge-24lp, 
+ Blog read time : Oct 9
+            2 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gyan, 
+ Blog title is : 10 Awesome Github Repos Every Web Developer Should Know ,
+ Blog link: https://dev.to/gw78ah/10-awesome-github-repos-every-web-developer-should-know-2685, 
+ Blog read time : Oct 9
+            1 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: AM, 
  Blog title is : Django Cloud Task Queue ,
  Blog link: https://dev.to/txiocoder/django-cloud-task-queue-27g2, 
  Blog read time : Oct 8
             1 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Ankit Anand ✨, 
  Blog title is : AWS X-Ray vs Jaeger - key features, differences and alternatives ,
  Blog link: https://dev.to/signoz/aws-x-ray-vs-jaeger-key-features-differences-and-alternatives-322, 
  Blog read time :  for Oct 8
             6 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Matt Eland, 
+ Blog title is : Repository Visualization with GitHub Next ,
+ Blog link: https://dev.to/integerman/repository-visualization-with-github-next-3j33, 
+ Blog read time : Oct 9
+            5 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: TueNguyen2911, 
  Blog title is : Hacktoberfest's first commit ,
  Blog link: https://dev.to/tuenguyen2911_67/hacktoberfest-s-first-commit-1oak, 
  Blog read time : Oct 9
             2 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Alvaro Montoro, 
  Blog title is : Divtober Day 9: Homonym ,
  Blog link: https://dev.to/alvaromontoro/divtober-day-9-homonym-mhh, 
  Blog read time : Oct 9
             1 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Jason Leow ~ golifelog.com, 
  Blog title is : Nocode expectations for code is killing my learning ,
  Blog link: https://dev.to/jasonleowsg/nocode-expectations-for-code-is-killing-my-learning-37bh, 
  Blog read time : Oct 8
             3 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Erin Schaffer, 
  Blog title is : Front-end vs back-end development: What's the difference? ,
  Blog link: https://dev.to/educative/front-end-vs-back-end-development-what-s-the-difference-l63, 
  Blog read time :  for Oct 8
             6 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Marcelo Sousa, 
  Blog title is : Ship / Show / Ask With Reviewpad ,
  Blog link: https://dev.to/reviewpad/ship-show-ask-with-reviewpad-47jh, 
  Blog read time :  for Oct 8
             5 min read
            
-Author: Gabriel Bittencourt, 
- Blog title is : Loading animation with React.js + styled-components ,
- Blog link: https://dev.to/gabrlcj/loading-animation-with-react-js-styled-components-3m0n, 
- Blog read time : Oct 8
-            3 min read
-           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Roberto Ruiz, 
  Blog title is : Untangling Your Logic Using State Machines ,
  Blog link: https://dev.to/robruizr/untangling-your-logic-using-state-machines-2epj, 
  Blog read time : Oct 8
             5 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
+Author: Gabriel Bittencourt, 
+ Blog title is : Loading animation with React.js + styled-components ,
+ Blog link: https://dev.to/gabrlcj/loading-animation-with-react-js-styled-components-3m0n, 
+ Blog read time : Oct 8
+            3 min read
+           
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Salma, 
  Blog title is : Make Custom Pagination with laravel ,
  Blog link: https://dev.to/salmazz/make-custom-pagination-with-laravel-n4i, 
  Blog read time : Oct 8
             2 min read
            
+ 
+ 
+ ===   ===  ===  
+ 
 Author: Alejandro Martinez, 
  Blog title is : How to load a #hash fragment to an anchor name in react (especially in first loading) ,
  Blog link: https://dev.to/alejomartinez8/how-to-load-a-hash-fragment-to-an-anchor-name-in-react-especially-in-first-loading-g3i, 
  Blog read time : Oct 8
             3 min read
            
-Author: Raquel Román-Rodriguez, 
- Blog title is : Algo Logging: the Longest Substring of Unique Characters in JavaScript ,
- Blog link: https://dev.to/raquii/algo-logging-the-longest-substring-of-unique-characters-in-javascript-4i3, 
- Blog read time : Oct 8
-            6 min read
-           
-Author: Danielle Ellis, 
- Blog title is : React Library Suggestions ,
- Blog link: https://dev.to/thedanielleellis/react-libraries-suggestions-haf, 
- Blog read time : Oct 8
-            1 min read
-           
-Author: Cubite, 
- Blog title is : How To Manage Open edX® Environment Variables Using Doppler and Automating The Deployment ,
- Blog link: https://dev.to/corpcubite/how-to-manage-open-edx-environment-variables-using-doppler-and-automating-the-deployment-4c5e, 
- Blog read time : Oct 8
-            5 min read
-           
-Author: David Coker, 
- Blog title is : How to set up GitHub with Visual Studio Code ,
- Blog link: https://dev.to/thecokerdavid/how-to-set-up-github-with-visual-studio-code-207b, 
- Blog read time : Oct 8
-            3 min read
-           
-Author: Sebastian Rindom, 
- Blog title is : Making your store more powerful with Contentful ,
- Blog link: https://dev.to/medusajs/making-your-store-more-powerful-with-contentful-3efk, 
- Blog read time :  for Oct 8
-            7 min read
-           
-Author: Matias D, 
- Blog title is : Show me your portfolio ,
- Blog link: https://dev.to/matiasdandrea/show-me-your-portfolio-1l9h, 
- Blog read time : Oct 8
-            1 min read
-           
-Author: Jambang J, 
- Blog title is : Deploying an discordjs bot to Qovery ,
- Blog link: https://dev.to/jambang067/deploying-an-discordjs-bot-to-qovery-51e, 
- Blog read time : Oct 8
-            7 min read
-           
-Author: Prosper Yong, 
- Blog title is : Get Paid Writing ,
- Blog link: https://dev.to/yongdev/get-paid-writing-2i2j, 
- Blog read time : Oct 8
-            1 min read
-           
-Author: Gaurav Gupta, 
- Blog title is : Smart Notes - A Build-in Public Product. BuildLog[1] ,
- Blog link: https://dev.to/gauravgupta/smart-notes-a-build-in-public-product-buildlog-1-kj6, 
- Blog read time : Oct 8
-            4 min read
-           
-Author: Rasool Khan, 
- Blog title is : Building CRUD API with NestJs - Write First API. ,
- Blog link: https://dev.to/rasoolk16/building-crud-api-with-nestjs-write-first-api-46m, 
- Blog read time : Oct 8
-            4 min read
-           
-Author: AbcSxyZ, 
- Blog title is : Business models of Free and Open Source software ,
- Blog link: https://dev.to/abcsxyz/business-models-of-free-and-open-source-software-2cg8, 
- Blog read time : Oct 8
-            4 min read
-           
-Author: whykay 👩🏻‍💻🐈🏳️‍🌈 (she/her), 
- Blog title is : 👏 New EuroPython Fellows ,
- Blog link: https://dev.to/europython/new-europython-fellows-2ob2, 
- Blog read time :  for Oct 8
-            1 min read
-           
-Author: Zaw Zaw Win, 
- Blog title is : How to pass props object from child component to parent ,
- Blog link: https://dev.to/hareom284/how-to-pass-props-object-from-child-component-to-parent-2a8d, 
- Blog read time : Oct 8
-            2 min read
-           
-Author: john methew, 
- Blog title is : Serverless Cloud Application Development with AWS Lambda ,
- Blog link: https://dev.to/johnmethew18/serverless-cloud-application-development-with-aws-lambda-3o7l, 
- Blog read time : Oct 8
-            1 min read
-           
+ 
+ 
+ ===   ===  ===  
+ 

@@ -24,7 +24,8 @@ axios.get('https://dev.to/')
             const readTime = $(element).find('.crayons-story__tertiary').text()
             const dev = 'https://dev.to'
             const joinedBlogLink = `${dev}` + `${blogLink}`;
-            writeStream.write(`Author: ${author}, \n Blog title is : ${blogTitle} ,\n Blog link: ${joinedBlogLink}, \n Blog read time : ${readTime} \n`);
+            writeStream.write(`Author: ${author}, \n Blog title is : ${blogTitle} ,\n Blog link: ${joinedBlogLink}, \n Blog read time : ${readTime} \n \n \n ===   ===  ===  \n \n`);
+
         });
 
 
